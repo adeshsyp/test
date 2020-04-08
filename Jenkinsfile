@@ -6,5 +6,10 @@ pipeline{
                 echo "Hello World again"
             }
         }
+        stage("Info"){
+            steps{
+                sh 'env'
+            }
+        }
     }
 }
