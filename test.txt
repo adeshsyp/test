@@ -1,3 +1,3 @@
 This is a test file
-branch: something_new
+branch: new_text_new
 other data
